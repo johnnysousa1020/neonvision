@@ -1,16 +1,49 @@
-# React + Vite
+# 🌃 NeonVision
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma galeria futurista de imagens com estilo
+cyberpunk desenvolvido com React e Vite.
+O projeto apresenta um design moderno com animações,
+filtros e busca dinâmica de imagens.
 
-Currently, two official plugins are available:
+🔗 Acesse o projeto online:
+https://johnnysousa1020.github.io/neonvision/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🔍 Busca dinâmica de imagens
+- 🧠 Filtro por categorias
+- 🖼️ Galeria interativa
+- 🔎 Modal para visualizar imagens
+- ✨ Animações e efeitos hover
+- 📱 Layout moderno e responsivo
+- 🎨 Estilo futurista / cyberpunk
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologias
+
+- React
+- Vite
+- JavaScript
+- CSS3
+
+---
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento deste projeto foram
+praticados:
+
+- Componentização com React
+- Manipulação de estados
+- Filtros e busca dinâmica
+- Organização de layout
+- Deploy de aplicações web
+
+---
+
+## Autor
+
+Desenvolvido por Johnny Sousa
