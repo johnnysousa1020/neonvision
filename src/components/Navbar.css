@@ -1,0 +1,28 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    border-bottom: 1px solid #1a1a1a;
+    background-color: #111;
+}
+
+.logo{
+    color: #00f2ff;
+    text-shadow: 0 0 8px #00f2ff;
+    font-size: 24px;
+}
+
+.search-input{
+    padding: 8px 12px;
+    background-color: #1a1a1a;
+    border: 1px solid #00f2ff;
+    border-radius: 5px;
+    color: white;
+    outline: none;
+    transition: 0.3s;
+}
+
+.search-input:focus{
+    box-shadow: 0 0 10px #00f2ff;
+}

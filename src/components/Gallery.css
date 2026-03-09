@@ -1,0 +1,44 @@
+.gallery{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    padding: 40px;
+}
+
+.card{
+    background-color: #111;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: 0.3s;
+    border: 1px solid #1a1a1a;
+    max-width: 350px;
+    width: 100%;
+}
+
+.card:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 0 15px #00f2ff;
+}
+
+.card img{
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.card h3{
+    padding: 15px;
+    color: #00f2ff;
+}
+
+.no-results-galerry{
+    text-align: center;
+    padding: 60px;
+    color: #000;
+}
+
+.no-results-galerry h2{
+    font-size: 28px;
+    margin-bottom: 10px;
+}
